@@ -49,7 +49,7 @@
 │   ├── Support Vector Machines for Pattern Classification (2ed) - Shigeo Abe (2010).pdf
 │   └── Support Vector Machines - Ingo Steinwart, Andreas Christmann (2008).pdf
 ├── Large Language Model
-│   └── 大语言模型 - 赵鑫 李军毅 周昆 唐天一 文继荣.pdf
+│   └── 大语言模型 - 赵鑫, 李军毅, 周昆, 唐天一, 文继荣.pdf
 ├── Machine Learning
 │   ├── 机器学习训练秘籍 - Andrew Ng (2018).pdf
 │   ├── 机器学习与数据挖掘. 方法和应用 - Ryszard S. Michalski, Ivan Bratko, Miroslav Kubat (朱明等 译) (2004).pdf
