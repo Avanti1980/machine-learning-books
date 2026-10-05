@@ -4,10 +4,6 @@
 │   ├── Learning to Rank for Information Retrieval - Tie-Yan Liu (2011).pdf
 │   ├── Statistics and Data Analysis for Financial Engineering with R examples (2ed) - David Ruppert, David S. Matteson (2015).pdf
 │   └── Time Series Analysis Forecasting and Control (5ed) - George E. P. Box, Gwilym M. Jenkins, Gregory C. Reinsel, Greta M. Ljung (2016).pdf
-├── Bandit
-│   └── Bandit Algorithms
-│       ├── Bandit Algorithms Solution Manual.pdf
-│       └── Bandit Algorithms - Tor Lattimore, Csaba Szepesvári.pdf
 ├── Data Mining
 │   ├── An Introduction to Data Mining - Daniel T. Larose, Chantal D. Larose (2014).pdf
 │   ├── Data Mining Concepts and Techniques (2ed) - Jiawei Han, Micheline Kamber, Jian Pei
@@ -29,7 +25,7 @@
 │   ├── Advances in Graph Neural Networks - Chuan Shi, Xiao Wang, Cheng Yang (2022).pdf
 │   ├── Introduction to Deep Learning From Logical Calculus to Artificial Intelligence - Sandro Skansi (2018).pdf
 │   ├── Mathematical Foundations for Deep Learning - Mehdi Ghayoumi (2026).pdf
-│   ├── Mathematical Foundations of Deep Learning - Ye, Xiaojing.pdf
+│   ├── Mathematical Foundations of Deep Learning - Xiaojing Ye.pdf
 │   ├── Neural Network Design - Martin T. Hagan, Howard B. Demuth, Mark H. Beale (1996).pdf
 │   ├── Responsible Graph Neural Networks - Mohamed Abdel-Basset, Nour Moustafa, Hossam Hawash, Zahir Tari (2023).pdf
 │   └── TensorFlow深度学习 - 龙龙老师 (2019).pdf
@@ -134,21 +130,23 @@
 ├── Neuro Symbolic
 │   └── Neuro-Symbolic Artificial Intelligence the State of the Art - Pascal Hitzler, Md Kamruzzaman Sarker (2022).pdf
 ├── Online Learning
+│   ├── Bandit Algorithms
+│   │   ├── Bandit Algorithms Solution Manual.pdf
+│   │   └── Bandit Algorithms - Tor Lattimore, Csaba Szepesvári.pdf
 │   ├── Online learning – CMPUT 654.pdf
 │   └── Prediction, Learning, and Games - Nicolò Cesa-Bianchi, Gábor Lugosi
 │       ├── errata.pdf
 │       └── Prediction, Learning, and Games - Nicolò Cesa-Bianchi, Gábor Lugosi (2006).pdf
 ├── Optimization
 │   ├── Bayesian Optimization - Roman Garnett (2023).pdf
-│   ├── Convex Optimization for Machine Learning - Suh Changho (2022).pdf
+│   ├── Convex Optimization for Machine Learning - Changho Suh (2022).pdf
 │   ├── Distributed Optimization and Statistical Learning via the Alternating Direction Method of Multipliers - Stephen Boyd, Neal Parikh, Eric Chu, Borja Peleato, Jonathan Eckstein.pdf
 │   ├── Introduction to Online Convex Optimization (2ed) - Elad Hazan (2021).pdf
 │   ├── Introduction to Online Optimization and Learning - Haipeng Luo (2022).pdf
 │   └── Introduction to Online Optimization - Sébastien Bubeck (2011).pdf
-├── outline.sh
-├── README.md
 ├── Reinforcement Learning
 │   ├── 深度强化学习 - 董豪, 丁子涵, 仉尚航 (2021).pdf
+│   ├── Mathematical Foundations of Reinforcement Learning - Shiyu Zhao (2025).pdf
 │   ├── Reinforcement Learning An Introduction (2ed) - Richard S. Sutton, Andrew G. Barto (2018).pdf
 │   ├── Reinforcement Learning: An Overview - Kevin P. Murphy (2025).pdf
 │   ├── Reinforcement Learning from Human Feedback A short introduction to RLHF and post-training focused on language models - Nathan Lambert (2026).pdf
@@ -181,11 +179,10 @@
 │   ├── Oracle Inequalities in Empirical Risk Minimization and Sparse Recovery Problems - Vladimir Koltchinskii (2011).pdf
 │   ├── Statistical Learning Theory - Vladimir Naumovich Vapnik.pdf
 │   └── The Nature of Statistical Learning Theory (2ed) - Vladimir Naumovich Vapnik (1999).pdf
-├── upload.sh
 └── Weakly Supervised Learning
     ├── Machine Learning from Weak Supervision An Empirical Risk Minimization Approach - Masashi Sugiyama, Han Bao, Takashi Ishida, Nan Lu, Tomoya Sakai, Gang Niu (2022).pdf
     ├── Multiple Instance Learning Foundations and Algorithms - Francisco Herrera, Sebastián Ventura, Rafael Bello, Chris Cornelis, Amelia Zafra, Dánel Sánchez-Tarragó, Sarah Vluymans (2016).pdf
     ├── Semi-Supervised Learning - Olivier Chapelle, Bernhard Schölkopf, Alexander Zien (2006).pdf
     └── Unsupervised Learning Algorithms - M. Emre Celebi, Kemal Aydin (2016).pdf
 ```
-33 directories, 156 files
+32 directories, 154 files
