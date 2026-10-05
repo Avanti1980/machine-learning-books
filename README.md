@@ -52,7 +52,7 @@
 │   └── 大语言模型 - 赵鑫, 李军毅, 周昆, 唐天一, 文继荣.pdf
 ├── Machine Learning
 │   ├── 机器学习训练秘籍 - Andrew Ng (2018).pdf
-│   ├── 机器学习与数据挖掘. 方法和应用 - Ryszard S. Michalski, Ivan Bratko, Miroslav Kubat (朱明等 译) (2004).pdf
+│   ├── 机器学习与数据挖掘. 方法和应用 - Ryszard S. Michalski, Ivan Bratko, Miroslav Kubat (朱明 等 译) (2004).pdf
 │   ├── 机器学习 - 周志华
 │   │   ├── 机器学习 - 周志华.pdf
 │   │   └── 课件.zip
@@ -74,7 +74,7 @@
 │   │   └── Foundations of Machine Learning (2ed) - Mehryar Mohri, Afshin Rostamizadeh, Ameet Talwalkar (2018).pdf
 │   ├── From Curve Fitting to Machine Learning - Achim Zielesny (2011).pdf
 │   ├── Hands-On Machine Learning with Scikit-Learn and TensorFlow - Aurélien Géron
-│   │   ├── 机器学习实战 基于Scikit-Learn、Keras和TensorFlow (2ed) - Aurélien Géron (宋能辉 李娴 译) (2020).pdf
+│   │   ├── 机器学习实战 基于Scikit-Learn、Keras和TensorFlow (2ed) - Aurélien Géron (宋能辉, 李娴 译) (2020).pdf
 │   │   ├── Hands-On Machine Learning with Scikit-Learn and TensorFlow (2ed) - Aurélien Géron.pdf
 │   │   └── Hands-On Machine Learning with Scikit-Learn and TensorFlow - Aurélien Géron.pdf
 │   ├── Introduction to Machine Learning (2ed) - Ethem Alpaydin (2010).pdf
@@ -92,7 +92,7 @@
 │   ├── Machine Learning in Non-Stationary Environments - Masashi Sugiyama, Motoaki Kawanabe (2012).pdf
 │   ├── Machine Learning, Neural and Statistical Classification - D. Michie, D.J. Spiegelhalter, C.C. Taylor (1994).pdf
 │   ├── Machine Learning - Tom M. Mitchell (1997)
-│   │   ├── 机器学习 (中译).pdf
+│   │   ├── 机器学习 - Tom M. Mitchell (曾华军, 张银奎 等 译).pdf
 │   │   ├── Machine Learning - Tom M. Mitchell (1997).pdf
 │   │   └── Some notes and solutions to Tom Mitchell's Machine Learning.pdf
 │   ├── Pattern Classification (2ed) - Richard O. Duda, Peter E. Hart, David G. Stork (2001).pdf
@@ -148,7 +148,7 @@
 │   ├── 深度强化学习 - 董豪, 丁子涵, 仉尚航 (2021).pdf
 │   ├── Mathematical Foundations of Reinforcement Learning - Shiyu Zhao (2025).pdf
 │   ├── Reinforcement Learning An Introduction (2ed) - Richard S. Sutton, Andrew G. Barto (2018).pdf
-│   ├── Reinforcement Learning: An Overview - Kevin P. Murphy (2025).pdf
+│   ├── Reinforcement Learning An Overview - Kevin P. Murphy (2025).pdf
 │   ├── Reinforcement Learning from Human Feedback A short introduction to RLHF and post-training focused on language models - Nathan Lambert (2026).pdf
 │   └── Statistical Reinforcement Learning Modern Machine Learning Approaches - Masashi Sugiyama (2015).pdf
 ├── Statistics
