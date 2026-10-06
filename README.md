@@ -30,8 +30,9 @@
 │   ├── Responsible Graph Neural Networks - Mohamed Abdel-Basset, Nour Moustafa, Hossam Hawash, Zahir Tari (2023).pdf
 │   └── TensorFlow深度学习 - 龙龙老师 (2019).pdf
 ├── Dimensionality Reduction
-│   ├── High-Dimensional Data Analysis with Low-Dimensional Models Principles, Computation, and Applications - John Wright, Yi Ma.pdf
-│   └── Principal Component Analysis (2ed) - I. T. Jolliffe.pdf
+│   ├── Elements of Dimensionality Reduction and Manifold Learning - Benyamin Ghojogh, Mark Crowley, Fakhri Karray, Ali Ghodsi (2023).pdf
+│   ├── High-Dimensional Data Analysis with Low-Dimensional Models Principles, Computation, and Applications - John Wright, Yi Ma (2018).pdf
+│   └── Principal Component Analysis (2ed) - I. T. Jolliffe (2002).pdf
 ├── Ensemble
 │   ├── Boosting Foundations and Algorithms - Robert E. Schapire, Yoav Freund (2012).pdf
 │   ├── Ensemble Machine Learning Methods and Applications - Cha Zhang, Yunqian Ma.pdf
@@ -134,16 +135,17 @@
 │   │   ├── Bandit Algorithms Solution Manual.pdf
 │   │   └── Bandit Algorithms - Tor Lattimore, Csaba Szepesvári.pdf
 │   ├── Online learning – CMPUT 654.pdf
-│   └── Prediction, Learning, and Games - Nicolò Cesa-Bianchi, Gábor Lugosi
+│   └── Prediction, Learning, and Games - Nicolò Cesa-Bianchi, Gábor Lugosi (2006)
 │       ├── errata.pdf
 │       └── Prediction, Learning, and Games - Nicolò Cesa-Bianchi, Gábor Lugosi (2006).pdf
 ├── Optimization
 │   ├── Bayesian Optimization - Roman Garnett (2023).pdf
 │   ├── Convex Optimization for Machine Learning - Changho Suh (2022).pdf
-│   ├── Distributed Optimization and Statistical Learning via the Alternating Direction Method of Multipliers - Stephen Boyd, Neal Parikh, Eric Chu, Borja Peleato, Jonathan Eckstein.pdf
+│   ├── Distributed Optimization and Statistical Learning via the Alternating Direction Method of Multipliers - Stephen Boyd, Neal Parikh, Eric Chu, Borja Peleato, Jonathan Eckstein (2010).pdf
 │   ├── Introduction to Online Convex Optimization (2ed) - Elad Hazan (2021).pdf
 │   ├── Introduction to Online Optimization and Learning - Haipeng Luo (2022).pdf
-│   └── Introduction to Online Optimization - Sébastien Bubeck (2011).pdf
+│   ├── Introduction to Online Optimization - Sébastien Bubeck (2011).pdf
+│   └── Optimization A Bootcamp for Machine Learning, Inverse Problems, and Control - Steven L. Brunton (2026).pdf
 ├── Reinforcement Learning
 │   ├── 深度强化学习 - 董豪, 丁子涵, 仉尚航 (2021).pdf
 │   ├── Mathematical Foundations of Reinforcement Learning - Shiyu Zhao (2025).pdf
@@ -185,4 +187,4 @@
     ├── Semi-Supervised Learning - Olivier Chapelle, Bernhard Schölkopf, Alexander Zien (2006).pdf
     └── Unsupervised Learning Algorithms - M. Emre Celebi, Kemal Aydin (2016).pdf
 ```
-32 directories, 154 files
+32 directories, 156 files
