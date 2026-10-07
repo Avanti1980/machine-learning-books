@@ -25,6 +25,7 @@
 │   ├── Deep Learning for Biology Harness AI to Solve Real-World Biology Problems - Charles Ravarani, Natasha Latysheva (2025).pdf
 │   ├── Deep Learning for the Life Sciences Applying Deep Learning to Genomics, Microscopy, Drug Discovery, and More - Bharath Ramsundar, Peter Eastman, Patrick Walters, Vijay Pande (2019).pdf
 │   ├── Handbook of Machine Learning for Computational Optimization - Vishal Jain, Sapna Juneja, Abhinav Juneja, Ramani Kannan (2021).pdf
+│   ├── Introduction to Time Series and Forecasting (3ed) - Peter J. Brockwell, Richard A. Davis (2016).pdf
 │   ├── Learning to Rank for Information Retrieval - Tie-Yan Liu (2011).pdf
 │   ├── Statistics and Data Analysis for Financial Engineering with R examples (2ed) - David Ruppert, David S. Matteson (2015).pdf
 │   ├── The Potential of Generative AI Transforming technology, business and art through innovative AI applications - Gupta, Anushree Srivastava (2024).pdf
@@ -286,4 +287,4 @@
     ├── Unsupervised Learning Algorithms - M. Emre Celebi, Kemal Aydin (2016).pdf
     └── Unsupervised Learning in Space and Time - Marius Leordeanu (2020).pdf
 ```
-38 directories, 249 files
+38 directories, 250 files
