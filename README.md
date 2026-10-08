@@ -182,6 +182,7 @@
 │   ├── Mathematics for Computer Science - Eric Lehman, Thomson Leighton, Albert R Meyer (2018).pdf
 │   ├── Mathematics for Machine Learning - Marc Peter Deisenroth, A. Aldo Faisal, Cheng Soon Ong (2020).pdf
 │   ├── Optimal Transport for Machine Learners - Gabriel Peyré (2026).pdf
+│   ├── Probability and Statistics for Data Science - Carlos Fernandez-Granda (2016).pdf
 │   └── Probability for Statistics and Machine Learning Fundamentals and Advanced Topics - Anirban DasGupta (2011).pdf
 ├── Matrix
 │   ├── An Introduction to Random Matrices - Greg W. Anderson, Alice Guionnet, Ofer Zeitouni (2011).pdf
@@ -256,7 +257,9 @@
 │   ├── Handbook of Graphical Models - Marloes Maathuis, Mathias Drton, Steffen Lauritzen, Martin Wainwright (2019).pdf
 │   ├── Handbook of Markov Chain Monte Carlo - Steve Brooks, Andrew Gelman, Galin L. Jones, Xiao-Li Meng (2011).pdf
 │   ├── Handbook Of Statistics - Dipak K. Dey, C. R. Rao.pdf
-│   ├── High-Dimensional Probability An Introduction with Applications in Data Science - Roman Vershynin.pdf
+│   ├── High-Dimensional Probability An Introduction with Applications in Data Science - Roman Vershynin
+│   │   ├── High-Dimensional Probability An Introduction with Applications in Data Science (1ed) - Roman Vershynin (2020).pdf
+│   │   └── High-Dimensional Probability An Introduction with Applications in Data Science (2ed) - Roman Vershynin (2026).pdf
 │   ├── High-Dimensional Statistics A Non-Asymptotic Viewpoint - Martin J. Wainwright (2019).pdf
 │   ├── High-Dimensional Statistics - Philippe Rigollet, Jan-Christian Hütter (2023).pdf
 │   ├── Introduction to Statistics and Data Analysis - Christian Heumann, Michael Schomaker Shalabh.pdf
@@ -287,4 +290,4 @@
     ├── Unsupervised Learning Algorithms - M. Emre Celebi, Kemal Aydin (2016).pdf
     └── Unsupervised Learning in Space and Time - Marius Leordeanu (2020).pdf
 ```
-38 directories, 250 files
+39 directories, 252 files
