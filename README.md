@@ -182,6 +182,7 @@
 │   ├── Mathematics for Computer Science - Eric Lehman, Thomson Leighton, Albert R Meyer (2018).pdf
 │   ├── Mathematics for Machine Learning - Marc Peter Deisenroth, A. Aldo Faisal, Cheng Soon Ong (2020).pdf
 │   ├── Optimal Transport for Machine Learners - Gabriel Peyré (2026).pdf
+│   ├── Optimal Transport Old and New - Cédric Villani (2008).pdf
 │   ├── Probability and Statistics for Data Science - Carlos Fernandez-Granda (2016).pdf
 │   └── Probability for Statistics and Machine Learning Fundamentals and Advanced Topics - Anirban DasGupta (2011).pdf
 ├── Matrix
@@ -290,4 +291,4 @@
     ├── Unsupervised Learning Algorithms - M. Emre Celebi, Kemal Aydin (2016).pdf
     └── Unsupervised Learning in Space and Time - Marius Leordeanu (2020).pdf
 ```
-39 directories, 252 files
+39 directories, 253 files
