@@ -251,7 +251,7 @@
 │   ├── An Introduction to Generalized Linear Models (2ed) - Annette J. Dobson.pdf
 │   ├── Applied Nonparametric Regression - Wolfgang Härdle (1994).pdf
 │   ├── Bayesian Nonparametrics - J.K. Ghosh, R.V. Ramamoorthi (2003).pdf
-│   ├── CAUSALITY: Models, Reasoning, and Inference - Judea Pearl (2009).pdf
+│   ├── CAUSALITY Models, Reasoning, and Inference - Judea Pearl (2009).pdf
 │   ├── Directional Statistics - Kanti V. Mardia, Peter E. Jupp (1999).pdf
 │   ├── Graphical Models, Exponential Families and Variational Inference - Martin J. Wainwright and Michael I. Jordan.pdf
 │   ├── Handbook of Graphical Models - Marloes Maathuis, Mathias Drton, Steffen Lauritzen, Martin Wainwright (2019).pdf
